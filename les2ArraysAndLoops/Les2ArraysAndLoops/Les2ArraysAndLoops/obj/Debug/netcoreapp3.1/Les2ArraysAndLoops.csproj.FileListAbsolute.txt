@@ -1,0 +1,13 @@
+C:\Users\Kevin\Documents\GitHub\AchievmentsCS\AchievmentsCS2\les2ArraysAndLoops\Les2ArraysAndLoops\Les2ArraysAndLoops\bin\Debug\netcoreapp3.1\Les2ArraysAndLoops.exe
+C:\Users\Kevin\Documents\GitHub\AchievmentsCS\AchievmentsCS2\les2ArraysAndLoops\Les2ArraysAndLoops\Les2ArraysAndLoops\bin\Debug\netcoreapp3.1\Les2ArraysAndLoops.deps.json
+C:\Users\Kevin\Documents\GitHub\AchievmentsCS\AchievmentsCS2\les2ArraysAndLoops\Les2ArraysAndLoops\Les2ArraysAndLoops\bin\Debug\netcoreapp3.1\Les2ArraysAndLoops.runtimeconfig.json
+C:\Users\Kevin\Documents\GitHub\AchievmentsCS\AchievmentsCS2\les2ArraysAndLoops\Les2ArraysAndLoops\Les2ArraysAndLoops\bin\Debug\netcoreapp3.1\Les2ArraysAndLoops.runtimeconfig.dev.json
+C:\Users\Kevin\Documents\GitHub\AchievmentsCS\AchievmentsCS2\les2ArraysAndLoops\Les2ArraysAndLoops\Les2ArraysAndLoops\bin\Debug\netcoreapp3.1\Les2ArraysAndLoops.dll
+C:\Users\Kevin\Documents\GitHub\AchievmentsCS\AchievmentsCS2\les2ArraysAndLoops\Les2ArraysAndLoops\Les2ArraysAndLoops\bin\Debug\netcoreapp3.1\Les2ArraysAndLoops.pdb
+C:\Users\Kevin\Documents\GitHub\AchievmentsCS\AchievmentsCS2\les2ArraysAndLoops\Les2ArraysAndLoops\Les2ArraysAndLoops\obj\Debug\netcoreapp3.1\Les2ArraysAndLoops.csprojAssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\AchievmentsCS\AchievmentsCS2\les2ArraysAndLoops\Les2ArraysAndLoops\Les2ArraysAndLoops\obj\Debug\netcoreapp3.1\Les2ArraysAndLoops.AssemblyInfoInputs.cache
+C:\Users\Kevin\Documents\GitHub\AchievmentsCS\AchievmentsCS2\les2ArraysAndLoops\Les2ArraysAndLoops\Les2ArraysAndLoops\obj\Debug\netcoreapp3.1\Les2ArraysAndLoops.AssemblyInfo.cs
+C:\Users\Kevin\Documents\GitHub\AchievmentsCS\AchievmentsCS2\les2ArraysAndLoops\Les2ArraysAndLoops\Les2ArraysAndLoops\obj\Debug\netcoreapp3.1\Les2ArraysAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\GitHub\AchievmentsCS\AchievmentsCS2\les2ArraysAndLoops\Les2ArraysAndLoops\Les2ArraysAndLoops\obj\Debug\netcoreapp3.1\Les2ArraysAndLoops.dll
+C:\Users\Kevin\Documents\GitHub\AchievmentsCS\AchievmentsCS2\les2ArraysAndLoops\Les2ArraysAndLoops\Les2ArraysAndLoops\obj\Debug\netcoreapp3.1\Les2ArraysAndLoops.pdb
+C:\Users\Kevin\Documents\GitHub\AchievmentsCS\AchievmentsCS2\les2ArraysAndLoops\Les2ArraysAndLoops\Les2ArraysAndLoops\obj\Debug\netcoreapp3.1\Les2ArraysAndLoops.genruntimeconfig.cache
