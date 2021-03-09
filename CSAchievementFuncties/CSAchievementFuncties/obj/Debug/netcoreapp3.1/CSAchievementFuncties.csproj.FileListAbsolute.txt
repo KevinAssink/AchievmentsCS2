@@ -1,0 +1,12 @@
+C:\Users\Kevin\Documents\GitHub\C# achievments\CSAchievementFuncties\CSAchievementFuncties\bin\Debug\netcoreapp3.1\CSAchievementFuncties.exe
+C:\Users\Kevin\Documents\GitHub\C# achievments\CSAchievementFuncties\CSAchievementFuncties\bin\Debug\netcoreapp3.1\CSAchievementFuncties.deps.json
+C:\Users\Kevin\Documents\GitHub\C# achievments\CSAchievementFuncties\CSAchievementFuncties\bin\Debug\netcoreapp3.1\CSAchievementFuncties.runtimeconfig.json
+C:\Users\Kevin\Documents\GitHub\C# achievments\CSAchievementFuncties\CSAchievementFuncties\bin\Debug\netcoreapp3.1\CSAchievementFuncties.runtimeconfig.dev.json
+C:\Users\Kevin\Documents\GitHub\C# achievments\CSAchievementFuncties\CSAchievementFuncties\bin\Debug\netcoreapp3.1\CSAchievementFuncties.dll
+C:\Users\Kevin\Documents\GitHub\C# achievments\CSAchievementFuncties\CSAchievementFuncties\bin\Debug\netcoreapp3.1\CSAchievementFuncties.pdb
+C:\Users\Kevin\Documents\GitHub\C# achievments\CSAchievementFuncties\CSAchievementFuncties\obj\Debug\netcoreapp3.1\CSAchievementFuncties.AssemblyInfoInputs.cache
+C:\Users\Kevin\Documents\GitHub\C# achievments\CSAchievementFuncties\CSAchievementFuncties\obj\Debug\netcoreapp3.1\CSAchievementFuncties.AssemblyInfo.cs
+C:\Users\Kevin\Documents\GitHub\C# achievments\CSAchievementFuncties\CSAchievementFuncties\obj\Debug\netcoreapp3.1\CSAchievementFuncties.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\GitHub\C# achievments\CSAchievementFuncties\CSAchievementFuncties\obj\Debug\netcoreapp3.1\CSAchievementFuncties.dll
+C:\Users\Kevin\Documents\GitHub\C# achievments\CSAchievementFuncties\CSAchievementFuncties\obj\Debug\netcoreapp3.1\CSAchievementFuncties.pdb
+C:\Users\Kevin\Documents\GitHub\C# achievments\CSAchievementFuncties\CSAchievementFuncties\obj\Debug\netcoreapp3.1\CSAchievementFuncties.genruntimeconfig.cache

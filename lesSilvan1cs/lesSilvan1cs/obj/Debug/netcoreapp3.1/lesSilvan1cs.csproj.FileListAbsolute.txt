@@ -1,0 +1,13 @@
+C:\Users\Kevin\Documents\GitHub\C# achievments\lesSilvan1cs\lesSilvan1cs\bin\Debug\netcoreapp3.1\lesSilvan1cs.exe
+C:\Users\Kevin\Documents\GitHub\C# achievments\lesSilvan1cs\lesSilvan1cs\bin\Debug\netcoreapp3.1\lesSilvan1cs.deps.json
+C:\Users\Kevin\Documents\GitHub\C# achievments\lesSilvan1cs\lesSilvan1cs\bin\Debug\netcoreapp3.1\lesSilvan1cs.runtimeconfig.json
+C:\Users\Kevin\Documents\GitHub\C# achievments\lesSilvan1cs\lesSilvan1cs\bin\Debug\netcoreapp3.1\lesSilvan1cs.runtimeconfig.dev.json
+C:\Users\Kevin\Documents\GitHub\C# achievments\lesSilvan1cs\lesSilvan1cs\bin\Debug\netcoreapp3.1\lesSilvan1cs.dll
+C:\Users\Kevin\Documents\GitHub\C# achievments\lesSilvan1cs\lesSilvan1cs\bin\Debug\netcoreapp3.1\lesSilvan1cs.pdb
+C:\Users\Kevin\Documents\GitHub\C# achievments\lesSilvan1cs\lesSilvan1cs\obj\Debug\netcoreapp3.1\lesSilvan1cs.csprojAssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\C# achievments\lesSilvan1cs\lesSilvan1cs\obj\Debug\netcoreapp3.1\lesSilvan1cs.AssemblyInfoInputs.cache
+C:\Users\Kevin\Documents\GitHub\C# achievments\lesSilvan1cs\lesSilvan1cs\obj\Debug\netcoreapp3.1\lesSilvan1cs.AssemblyInfo.cs
+C:\Users\Kevin\Documents\GitHub\C# achievments\lesSilvan1cs\lesSilvan1cs\obj\Debug\netcoreapp3.1\lesSilvan1cs.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\GitHub\C# achievments\lesSilvan1cs\lesSilvan1cs\obj\Debug\netcoreapp3.1\lesSilvan1cs.dll
+C:\Users\Kevin\Documents\GitHub\C# achievments\lesSilvan1cs\lesSilvan1cs\obj\Debug\netcoreapp3.1\lesSilvan1cs.pdb
+C:\Users\Kevin\Documents\GitHub\C# achievments\lesSilvan1cs\lesSilvan1cs\obj\Debug\netcoreapp3.1\lesSilvan1cs.genruntimeconfig.cache
